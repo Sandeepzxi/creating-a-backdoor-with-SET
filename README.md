@@ -83,14 +83,14 @@ sudo setoolkit
 
 
 **6. Send the generated link to the victim.**
-<img width="793" height="223" alt="image" src="https://github.com/user-attachments/assets/424dbdd3-cb72-4473-ae44-193d7980802a" />
+<img width="892" height="313" alt="image" src="https://github.com/user-attachments/assets/1bd405d5-3ef3-49cc-a9eb-fd0c9b359350" />
 
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-<img width="1229" height="606" alt="image" src="https://github.com/user-attachments/assets/dc5103db-2e9a-40a3-9238-7a47f99ae84e" />
+<img width="1125" height="533" alt="image" src="https://github.com/user-attachments/assets/1cd861c5-5b4f-482b-8462-a8a5e1892de6" />
 
 
 
